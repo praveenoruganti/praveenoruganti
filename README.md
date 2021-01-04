@@ -57,4 +57,4 @@
 [instagram]: https://instagram.com/praveenorugantitech
 [email]: mailto:praveenorugantitech@gmail.com
 
-### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
+### [Buy me a Book](https://bit.ly/388sUbE)
