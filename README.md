@@ -63,4 +63,4 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 <img style= 'background:black;' width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenorugantitech&layout=compact&bg_color=151515&text_color=0ee8e1&title_color=ff00f7">
 </p>
 
-### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
+<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="praveenoruganti" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting. You can now buy me a coffee!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
