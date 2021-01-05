@@ -63,4 +63,4 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 <img style= 'background:black;' width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenorugantitech&layout=compact&bg_color=151515&text_color=0ee8e1&title_color=ff00f7">
 </p>
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
