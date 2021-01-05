@@ -28,7 +28,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 [<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
 
-<br/>
+
 [linktree]: https://linktr.ee/praveenoruganti
 [website]: https://praveenorugantitech.blogspot.com
 [twitter]: https://mobile.twitter.com/praveenoruganti
