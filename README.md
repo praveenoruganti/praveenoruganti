@@ -1,5 +1,5 @@
 
-### Hi there, I'm Praveen Oruganti - aka [praveenorugantitech][website] 👋
+### Hi there, I'm Praveen Oruganti - aka [praveenorugantitech][linktree] 👋
 
 I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech/master/images/Developer.gif">
 
@@ -52,7 +52,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 - [All About React JS](https://github.com/praveenorugantitech/praveenorugantitech-ebooks/raw/master/React%20JS.pdf)
 - [Java Interview Questions](https://github.com/praveenorugantitech/praveenorugantitech-ebooks/raw/master/Java%20Interview%20Questions.pdf)
 
-
+[linktree]: https://linktr.ee/praveenoruganti
 [website]: https://praveenorugantitech.blogspot.com
 [twitter]: https://mobile.twitter.com/praveenoruganti
 [facebookgroup]: https://www.facebook.com/groups/praveenorugantitech
