@@ -58,8 +58,7 @@
 [email]: mailto:praveenorugantitech@gmail.com
 
 <p>
-<img style= 'background:black;' width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenorugantitech&layout=compact&bg_color=151515&text_color=0ee8e1&title_color=ff00f7">  &nbsp &nbsp
-<img width="430px" src="https://github-readme-stats.vercel.app/api?username=praveenorugantitech&&show_icons=true&title_color=ff00f7&icon_color=bb2acf&text_color=0ee8e1&bg_color=151515">
+<img style= 'background:black;' width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenorugantitech&layout=compact&bg_color=151515&text_color=0ee8e1&title_color=ff00f7">  &nbsp &nbsp
 </p>
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
