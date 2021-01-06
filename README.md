@@ -3,8 +3,6 @@
 
 I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech/master/images/Developer.gif">
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=praveenorugantitech" alt="praveenorugantitech" /></p>
-
 ## I'm a Developer, Blogger and Teacher!
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love Technical blogging, listening songs, watching movies and playing cricket/tennis
