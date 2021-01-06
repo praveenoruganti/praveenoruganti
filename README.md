@@ -59,8 +59,8 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [instagram]: https://instagram.com/praveenorugantitech
 [email]: mailto:praveenorugantitech@gmail.com
 
-<p>
-<img style= 'background:black;' width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenorugantitech&layout=compact&bg_color=151515&text_color=0ee8e1&title_color=ff00f7">
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenorugantitech&label=Profile%20views&color=0e75b6&style=flat" alt="praveenorugantitech" /> </p>
 
-### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenorugantitech" alt="praveenorugantitech" /></a> </p>
+
+### [Buy me a Book](https://www.buymeacoffee.com/praveenorugantitech)
