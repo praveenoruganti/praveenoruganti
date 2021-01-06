@@ -3,6 +3,8 @@
 
 I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech/master/images/Developer.gif">
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenorugantitech" alt="praveenorugantitech" /></a> </p>
+
 ## I'm a Developer, Blogger and Teacher!
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love Technical blogging, listening songs, watching movies and playing cricket/tennis
@@ -59,6 +61,8 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [instagram]: https://instagram.com/praveenorugantitech
 [email]: mailto:praveenorugantitech@gmail.com
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenorugantitech" alt="praveenorugantitech" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenorugantitech&show_icons=true&locale=en&layout=compact" alt="praveenorugantitech" /></p>
 
-### [Buy me a Book](https://www.buymeacoffee.com/praveenorugantitech)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenorugantitech&show_icons=true&locale=en" alt="praveenorugantitech" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenorugantitech&" alt="praveenorugantitech" /></p>
