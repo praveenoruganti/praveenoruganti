@@ -3,7 +3,7 @@
 
 I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech/master/images/Developer.gif">
 
-## I'm a Developer, Blogger , and An Educator !!
+## I'm a Developer, Blogger, and An Educator !!
 - 🔭 I’m currently learning everything. 
 - ⚡ Fun fact: I love Technical blogging, listening songs, watching movies and playing cricket/tennis.
 
