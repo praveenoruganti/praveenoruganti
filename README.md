@@ -28,7 +28,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="AWS" width="40px" src="https://user-images.githubusercontent.com/29656920/97882104-342b4080-1d49-11eb-9230-6381aa492144.png" />
+<img align="left" alt="PCF" width="40px" src="https://avatars2.githubusercontent.com/u/5497370?s=200&v=4" />
 
 <br/><br/>
 
