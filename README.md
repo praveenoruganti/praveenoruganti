@@ -12,7 +12,6 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 
 [<img align="left" alt="praveenorugantitech| Linktree" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linktree]
 [<img align="left" alt="praveenorugantitech| Blog" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="praveenorugantitech | Facebook Group" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebookgroup]
 [<img align="left" alt="praveenorugantitech | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="praveenorugantitech | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="praveenorugantitech | Email" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
@@ -57,7 +56,6 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [linktree]: https://linktr.ee/praveenoruganti
 [website]: https://praveenorugantitech.blogspot.com
 [twitter]: https://mobile.twitter.com/praveenoruganti
-[facebookgroup]: https://www.facebook.com/groups/praveenorugantitech
 [instagram]: https://instagram.com/praveenorugantitech
 [email]: mailto:praveenorugantitech@gmail.com
 
