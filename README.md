@@ -3,9 +3,11 @@
 
 I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech/master/images/Developer.gif">
 
-## I'm a Developer, Blogger, and An Educator !!
-- 🔭 I’m currently learning everything. 
-- ⚡ Fun fact: I love Technical blogging, listening songs, watching movies and playing cricket/tennis.
+## I'm a Full Stack Developer, Blogger, and An Educator !!
+- 🔭 I’m working on Java, SpringBoot, React JS and Apigee.
+- 🌱 I'm currently in love with React.
+- ⚡ Loves sharing knowledge through my (Website)[website], (FB Tech Group)[facebookgroup] and (Blog)[blog].
+- 📫 Reach me at (Linktree)[linktree]
 
 
 ### Connect with me:
@@ -68,3 +70,9 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenorugantitech&show_icons=true&locale=en&layout=compact" alt="praveenorugantitech" />
 </p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+I hope you've been enjoying my articles and tutorials I've been writing. If you found them useful, consider buying me a book! I would really appreciate it.
+
+[<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" >](https://www.buymeacoffee.com/praveenoruganti)
