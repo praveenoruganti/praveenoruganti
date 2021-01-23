@@ -6,19 +6,19 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 ## I'm a Full Stack Developer, Blogger, and An Educator !!
 - 🔭 I’m working on Java, SpringBoot, React JS and Apigee.
 - 🌱 I'm currently in love with React.
-- ⚡ Loves sharing knowledge through my (Website)[website], (FB Tech Group)[facebookgroup] and (Blog)[blog].
-- 📫 Reach me at (Linktree)[linktree]
+- ⚡ Loves sharing knowledge through my [Website], [FBTechGroup] and [Blog].
+- 📫 Reach me at [Linktree] or contact me via [Email].
 
 
 ### Connect with me:
 
-[<img align="left" alt="praveenorugantitech| Linktree" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linktree]
-[<img align="left" alt="praveenorugantitech| Website" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="praveenorugantitech| Blog" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
-[<img align="left" alt="praveenorugantitech | Facebook Group" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebookgroup]
-[<img align="left" alt="praveenorugantitech | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="praveenorugantitech | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="praveenorugantitech | Email" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="praveenorugantitech| Linktree" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Linktree]
+[<img align="left" alt="praveenorugantitech| Website" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
+[<img align="left" alt="praveenorugantitech| Blog" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Blog]
+[<img align="left" alt="praveenorugantitech | Facebook Group" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][FBTechGroup]
+[<img align="left" alt="praveenorugantitech | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="praveenorugantitech | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="praveenorugantitech | Email" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Email]
 
 <br/><br/><br/>
 
@@ -57,13 +57,13 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 - [MicroServices, PCF and Spring Cloud](https://github.com/praveenorugantitech/praveenorugantitech-ebooks/raw/master/MicroServices_PCF_Spring%20Cloud.pdf)
 - [React JS](https://github.com/praveenorugantitech/praveenorugantitech-ebooks/raw/master/React%20JS.pdf)
 
-[linktree]: https://linktr.ee/praveenoruganti
-[website]: https://praveenorugantitech.firebaseapp.com
-[blog]: https://praveenorugantitech.blogspot.com
-[facebookgroup]: https://www.facebook.com/groups/praveenorugantitech
-[twitter]: https://mobile.twitter.com/praveenoruganti
-[instagram]: https://instagram.com/praveenorugantitech
-[email]: mailto:praveenorugantitech@gmail.com
+[Linktree]: https://linktr.ee/praveenoruganti
+[Website]: https://praveenorugantitech.firebaseapp.com
+[Blog]: https://praveenorugantitech.blogspot.com
+[FBTechGroup]: https://www.facebook.com/groups/praveenorugantitech
+[Twitter]: https://mobile.twitter.com/praveenoruganti
+[Instagram]: https://instagram.com/praveenorugantitech
+[Email]: mailto:praveenorugantitech@gmail.com
 
 <br/>
 
