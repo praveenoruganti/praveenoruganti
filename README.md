@@ -13,6 +13,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [<img align="left" alt="praveenorugantitech| Linktree" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linktree]
 [<img align="left" alt="praveenorugantitech| Website" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="praveenorugantitech| Blog" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
+[<img align="left" alt="praveenorugantitech | Facebook Group" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebookgroup]
 [<img align="left" alt="praveenorugantitech | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="praveenorugantitech | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="praveenorugantitech | Email" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
@@ -57,6 +58,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [linktree]: https://linktr.ee/praveenoruganti
 [website]: https://praveenorugantitech.firebaseapp.com
 [blog]: https://praveenorugantitech.blogspot.com
+[facebookgroup]: https://www.facebook.com/groups/praveenorugantitech
 [twitter]: https://mobile.twitter.com/praveenoruganti
 [instagram]: https://instagram.com/praveenorugantitech
 [email]: mailto:praveenorugantitech@gmail.com
