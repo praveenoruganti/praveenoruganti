@@ -73,6 +73,6 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-I hope you've been enjoying my articles, tutorials and live projects I've been developing. If you found them useful, consider buying me a book! I would really appreciate it.
+I hope you've been enjoying my articles, tutorials and live projects I've been writing. If you found them useful, consider buying me a book! I would really appreciate it.
 
 [<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" >](https://www.buymeacoffee.com/praveenoruganti)
