@@ -67,11 +67,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 
 <br/>
 
-<p>
- <img align="center" alt="Praveen Oruganti GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=praveenorugantitech&show_icons=true&hide_border=true" />
-</p>
-
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenorugantitech&" alt="praveenorugantitech" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenorugantitech&" alt="praveenorugantitech" /></p>
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenorugantitech&show_icons=true&locale=en&layout=compact" alt="praveenorugantitech" />
