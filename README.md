@@ -4,7 +4,7 @@
 I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech/master/images/Developer.gif">
 
 ## I'm a Full Stack Developer, Blogger, and An Educator !!
-- 🔭 I’m working on Java, SpringBoot, React JS and Apigee.
+- 🔭 I’m working on Java, SpringBoot, React JS, PCF and Apigee.
 - 🌱 I'm currently in love with React.
 - ⚡ Loves sharing knowledge through my [Website], [FBTechGroup] and [Blog].
 - 📫 Reach me at [Linktree] or contact me via [Email].
