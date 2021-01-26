@@ -11,14 +11,8 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 
 
 ### Connect with me:
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/praveenoruganti)[Twitter]
 
-[<img align="left" alt="praveenorugantitech| Linktree" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Linktree]
-[<img align="left" alt="praveenorugantitech| Website" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
-[<img align="left" alt="praveenorugantitech| Blog" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Blog]
-[<img align="left" alt="praveenorugantitech | Facebook Group" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][FBTechGroup]
-[<img align="left" alt="praveenorugantitech | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="praveenorugantitech | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="praveenorugantitech | Email" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Email]
 
 <br/><br/><br/>
 
@@ -61,7 +55,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [Website]: https://praveenorugantitech.firebaseapp.com
 [Blog]: https://praveenorugantitech.blogspot.com
 [FBTechGroup]: https://www.facebook.com/groups/praveenorugantitech
-[Twitter]: https://mobile.twitter.com/praveenoruganti
+[Twitter]: https://twitter.com/praveenoruganti
 [Instagram]: https://instagram.com/praveenorugantitech
 [Email]: mailto:praveenorugantitech@gmail.com
 
