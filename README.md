@@ -19,7 +19,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:praveenorugantitech@gmail.com)
 [![Linktree](https://img.shields.io/badge/-Linktree-green?style=flat-square&logo=Linktree&logoColor=white)](https://linktr.ee/praveenoruganti)
 
-<br/><br/><br/>
+<br/>
 
 ### Languages and Tools:
 
