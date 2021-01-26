@@ -12,7 +12,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 
 ### Connect with me:
 
-[![Website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=Website&logoColor=white)](https://praveenorugantitech.firebaseapp.com)
+[![TechWebsite](https://img.shields.io/badge/-TechWebsite-blue?style=flat-square&logo=Website&logoColor=white)](https://praveenorugantitech.firebaseapp.com)
 [![FBTechGroup](https://img.shields.io/badge/-FBTechGroup-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/groups/praveenorugantitech)
 [![Blog](https://img.shields.io/badge/-Blog-orange?style=flat-square&logo=blogger&logoColor=white)](https://praveenorugantitech.blogspot.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/praveenoruganti)
