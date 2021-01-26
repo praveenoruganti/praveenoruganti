@@ -19,8 +19,6 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:praveenorugantitech@gmail.com)
 [![Linktree](https://img.shields.io/badge/-Linktree-green?style=flat-square&logo=Linktree&logoColor=white)](https://linktr.ee/praveenoruganti)
 
-<br/>
-
 ### Languages and Tools:
 
 <img align="left" alt="JAVA" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
