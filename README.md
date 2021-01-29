@@ -6,7 +6,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 ## I'm a Full Stack Developer, Tech Blogger, and An Educator !!
 - 🔭 I’m working on Java, SpringBoot, React JS, PCF and Apigee.
 - 🌱 I'm currently in love with React.
-- ⚡ Loves sharing knowledge through my [Website], [FBTechGroup] and [Blog].
+- ⚡ Loves sharing knowledge through my [Website], [FBTechGroup] and [Tech Blog].
 - 📫 Reach me at [Linktree] or contact me via [Email].
 
 
