@@ -56,7 +56,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 
 [Linktree]: https://linktr.ee/praveenoruganti
 [Website]: https://praveenorugantitech.firebaseapp.com
-[Blog]: https://praveenorugantitech.blogspot.com
+[Tech Blog]: https://praveenorugantitech.blogspot.com
 [FBTechGroup]: https://www.facebook.com/groups/praveenorugantitech
 [Twitter]: https://twitter.com/praveenoruganti
 [Instagram]: https://instagram.com/praveenorugantitech
