@@ -72,7 +72,7 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 
 I hope you've been enjoying my articles, tutorials and live projects I've been writing. If you found them useful, consider buying me a coffee! I would really appreciate it.
 <div align="center">
-<a href="https://www.buymeacoffee.com/praveenoruganti"> <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" >]</a>
+<a href="https://www.buymeacoffee.com/praveenoruganti" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" ></a>
 </div>
 <div align="center">
 
