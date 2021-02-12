@@ -71,9 +71,9 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 I hope you've been enjoying my articles, tutorials and live projects I've been writing. If you found them useful, consider buying me a coffee! I would really appreciate it.
-
-[<img align="center" src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" >](https://www.buymeacoffee.com/praveenoruganti)
-
+<div align="center">
+[<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" >](https://www.buymeacoffee.com/praveenoruganti)
+</div>
 <div align="center">
 
 ### Show some ❤️ by starring my repositories & following me 😉 !
