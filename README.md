@@ -76,6 +76,6 @@ I hope you've been enjoying my articles, tutorials and live projects I've been w
 </div>
 <div align="center">
 
-### Show some ❤️ by starring my repositories & following me!
+Show some ❤️ by starring my repositories & following me!
 
 </div>
