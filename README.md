@@ -64,12 +64,15 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 
 <br/>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenorugantitech&show_icons=true&locale=en&layout=compact" alt="praveenorugantitech" />
-</p>
+### Stats
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=praveenorugantitech&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
+<img src="https://github-readme-stats.vercel.app/api?username=praveenorugantitech&count_private=true" align="center"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenorugantitech&layout=compact" align="center"/>
+
+### Support Me
 I hope you've been enjoying my articles, tutorials and live projects I've been writing. If you found them useful, consider buying me a coffee! I would really appreciate it.
 <div align="center">
 <a href="https://www.buymeacoffee.com/praveenoruganti" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" ></a>
