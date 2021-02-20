@@ -65,8 +65,6 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=praveenorugantitech&count_private=true" align="center"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenorugantitech&layout=compact" align="center"/>
 
 ### Support Me
