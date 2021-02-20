@@ -1,5 +1,5 @@
 
-### Hi there, I'm Praveen Oruganti - aka [praveenorugantitech][GitHub] 👋
+### Hi there, I'm Praveen Oruganti - aka [praveenorugantitech][linktree] 👋
 
 I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech/master/images/Developer.gif">
 
@@ -61,8 +61,14 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [Twitter]: https://twitter.com/praveenoruganti
 [Instagram]: https://instagram.com/praveenorugantitech
 [Email]: mailto:praveenorugantitech@gmail.com
-[GitHub]: https://github.com/praveenorugantitech
+
 <br/>
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenorugantitech&show_icons=true&locale=en&layout=compact" alt="praveenorugantitech" />
+</p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 I hope you've been enjoying my articles, tutorials and live projects I've been writing. If you found them useful, consider buying me a coffee! I would really appreciate it.
 <div align="center">
