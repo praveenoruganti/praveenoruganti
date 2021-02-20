@@ -62,7 +62,6 @@ I ❤️ FullStack Web Development! <img height="64px" src="https://raw.githubus
 [Instagram]: https://instagram.com/praveenorugantitech
 [Email]: mailto:praveenorugantitech@gmail.com
 
-<br/>
 
 ### Stats
 
